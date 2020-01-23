@@ -1,0 +1,3 @@
+This is for an error test
+case, where the image file
+is invalid.

@@ -1,0 +1,1 @@
+usage: extract <input-image> <output-message> <bits>

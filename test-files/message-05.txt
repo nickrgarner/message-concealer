@@ -1,0 +1,4 @@
+This message is the right
+length to fit in four bits
+of each color component in
+our 8 x 8 image

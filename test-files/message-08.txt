@@ -1,0 +1,3 @@
+This is an error test case,
+an image file that doesn't
+exist.

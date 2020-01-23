@@ -1,0 +1,7 @@
+This is a longer message. For it,
+we'll use all 8 bits in each
+color component of the image.
+This will make the image look
+like garbage, since none of
+the original pixel data will
+remain.

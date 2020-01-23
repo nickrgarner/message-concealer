@@ -1,0 +1,2 @@
+This message will fit in the 3
+low-order bits of a 8 x 8 image.
